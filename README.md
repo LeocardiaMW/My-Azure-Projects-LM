@@ -12,7 +12,7 @@ This project was completed as part of the **Microsoft Azure Data Fundamentals (D
 - Analyse large-scale datasets using **Microsoft Fabric Lakehouse**.
 - Implement data ingestion and streaming solutions.
 - Develop practical SQL skills for querying and analysing business data.
-- Gain hands-on experience across multiple Azure data services and workloads. 【1-4e9095】
+- Gain hands-on experience across multiple Azure data services and workloads.
 
 ## Azure Services Used
 
@@ -164,3 +164,10 @@ These exercises demonstrated how Azure data services can work together to suppor
 ## Conclusion
 
 This DP-900 project provided hands-on experience with Microsoft's cloud data platform and demonstrated the ability to work across relational, non-relational, and analytical workloads. By combining Azure SQL Database, Azure Storage, Azure Cosmos DB, Microsoft Fabric Lakehouse, and Eventstreams, the project showcased key data engineering and analytics concepts while building practical skills in SQL-based data analysis and cloud-based data solutions.
+
+<img width="318" height="166" alt="image" src="https://github.com/user-attachments/assets/64b3f4fc-7e82-40db-975b-deab3ef09004" />
+
+<img width="275" height="143" alt="image" src="https://github.com/user-attachments/assets/0a850474-67bd-4012-b4af-e9806a51083e" />
+
+<img width="311" height="156" alt="image" src="https://github.com/user-attachments/assets/c4b409f2-1ce8-4219-94f7-340308a13999" />
+
